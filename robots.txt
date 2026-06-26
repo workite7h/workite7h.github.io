@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://endikebede.github.io/myweb/sitemap.xml
+Sitemap: https://workite7h.github.io/sitemap.xml
